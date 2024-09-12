@@ -1,3 +1,4 @@
+<!-- header  -->
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -17,7 +18,7 @@
             <span aria-hidden="true">🔥</span>Projet Troll 
         </h1>
     </header>
-    
+    <!-- main  -->
     <main>
         <!-- main pour les images  -->
         <figure>
@@ -55,6 +56,7 @@
             </figcaption>
         </figure>
     </main>
+    <!-- footer  -->
     <footer>
         <p>
             &copy; - MIT - 2024
